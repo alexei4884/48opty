@@ -3,10 +3,10 @@
 ## Versions
 | Name | Graphic Mod | Version | Description | Mods |
 |---|---|---|---|---|
-| OptiFabric | Optifine | Stable | 📜 Fabric + 📜 Quilt + Optifine | Mods |
-| OptiForge | Optifine | Stable | 🔧 Forge + Optifine | Mods |
-| Sodium | Sodium | Stable | 📜 Fabric + Sodium | Mods |
-| Vulcan | Vulcan Mod | Alpha | 📜 Fabric + Vulcan | Mods |
+| 48opty-fabric | Optifine | Stable | 📜 Fabric + Optifine | Mods |
+| 48opty-forge | Optifine | Stable | 🔧 Forge + Optifine | Mods |
+| 48sody-fabric | Sodium | Stable | 📜 Fabric + Sodium | Mods |
+| 48vulcan | Vulcan Mod | Alpha | 📜 Fabric + Vulcan | Mods |
 
 | Version | OptiFabric | OptiForge | Sodium | Vulcan |
 |---|---|---|---|---|
